@@ -9,4 +9,3 @@ def bubble_sort(nums):
 
 print(bubble_sort([1,4,3,2,8,5]))
 print(bubble_sort([1,7,3,0,8,5]))
-
